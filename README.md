@@ -1,4 +1,4 @@
-# Teleint buscador creado para aquellos que se dedican a la recpilación de Informacion para la Obtención de Inteligencia
+# Teleint buscador creado para aquellos que se dedican a la recopilación de Información para la Obtención de Inteligencia
 Teleint es un Script de Telegram que busca por canales de telegram la informacion dada, los traduce y los guarda con marca de tiempo.
 
 ## Descripción

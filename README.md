@@ -1,5 +1,5 @@
 # Teleint buscador creado para aquellos que se dedican a la recopilación de Información para la Obtención de Inteligencia
-Teleint es un Script de Telegram que busca por canales de telegram la informacion dada, los traduce y los guarda con marca de tiempo.
+
 
 ## Descripción
 Este script de Python utiliza la biblioteca Telethon para interactuar con la API de Telegram. Permite al usuario unirse a canales y buscar mensajes específicos dentro de esos canales. Además, traduce los mensajes encontrados al español y guarda los resultados en archivos con marcas de tiempo.

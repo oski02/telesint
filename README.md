@@ -1,11 +1,15 @@
-# Teleint buscador creado para aquellos que se dedican a la recopilación de Información para la Obtención de Inteligencia
+# TeleInt buscador creado para aquellos que se dedican a la recopilación de Información para la Obtención de Inteligencia
 
 
 ## Descripción
 Este script de Python utiliza la biblioteca Telethon para interactuar con la API de Telegram. Permite al usuario unirse a canales y buscar mensajes específicos dentro de esos canales. Además, traduce los mensajes encontrados al español y guarda los resultados en archivos con marcas de tiempo.
 
-
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>/img/logo.jpeg</span><span>)</span>
+<p align="center">
+<img src="/img/logo.jpeg"
+	alt="TeleInt"
+	width="300"
+	style="float: left; margin-right: 10px;" />
+</p>
 
 
 ## Características

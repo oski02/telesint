@@ -1,0 +1,5 @@
+telethon==1.23.0
+googletrans==4.0.0-rc1
+colorama
+datetime
+tqdm

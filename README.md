@@ -1,4 +1,4 @@
-# TeleInt buscador creado para aquellos que se dedican a la recopilación de Información para la Obtención de Inteligencia
+# TeleSint buscador creado para aquellos que se dedican a la recopilación de Información para la Obtención de Inteligencia
 
 
 ## Descripción

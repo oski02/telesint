@@ -21,9 +21,10 @@ Este script de Python utiliza la biblioteca Telethon para interactuar con la API
 
 ## Uso
 1. **Instalación**: Instala las dependencias con: `pip3 install requirements.txt`
-2. **Configuración**: Edita el archivo `config.json` para incluir tu `api_id`, `api_hash` y `session_name`. Añade los canales `canales`
-3. **Ejecución**: Corre el script en tu terminal o línea de comandos.
-4. **Búsqueda**: Introduce el texto que deseas buscar cuando se te solicite.
+2. **Obtener API de Telegram**: Ve a la web <https://my.telegram.org/apps> y obten tu `api_id`, `api_hash`
+3. **Configuración**: Edita el archivo `config.json` para incluir tu `api_id`, `api_hash`. En `session_name` le pones el nombre que quieras. Añade los canales `canales`
+4. **Ejecución**: Corre el script en tu terminal o línea de comandos.
+5. **Búsqueda**: Introduce el texto que deseas buscar cuando se te solicite.
 
 ## Instalación
 El script utiliza códigos de escape ANSI para mostrar los mensajes de registro con colores en la terminal. Estos son los códigos utilizados:

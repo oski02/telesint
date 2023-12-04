@@ -25,7 +25,7 @@ Este script de Python utiliza la biblioteca Telethon para interactuar con la API
 El script utiliza códigos de escape ANSI para mostrar los mensajes de registro con colores en la terminal. Estos son los códigos utilizados:
 
 ## Ejemplos de uso:
-           `> python3 telesint.py -b busqueda
+            > python3 telesint.py -b busqueda
             > python3 telesint.py -b busqueda -f html
             > python3 telesint.py -b busqueda -f html,json
             > python3 telesint.py -l (Lista todos los canales del fichero config.json)

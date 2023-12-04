@@ -17,7 +17,7 @@ Este script de Python utiliza la biblioteca Telethon para interactuar con la API
 - **Búsqueda de mensajes**: Busca una cadena de texto específica dentro de los mensajes de los canales.
 - **Traducción de mensajes**: Utiliza Google Translate para traducir los mensajes encontrados al español.
 - **Registro con colores**: Muestra mensajes de éxito en **verde** y mensajes de error en **rojo**.
-- **Guardado de resultados**: Guarda los mensajes encontrados en archivos dentro de la carpeta 'out', añadiendo la fecha y hora al nombre del archivo.
+- **Guardado de resultados**: Guarda los mensajes encontrados en archivos dentro de la carpeta 'out', añadiendo la fecha y hora al nombre del archivo. Pudiendo ser exportados en .txt, .json y .html
 
 ## Uso
 1. **Instalación**: Instala las dependencias con: `pip3 install requirements.txt`

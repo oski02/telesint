@@ -2,7 +2,7 @@
 
 
 ## Descripción
-Este script de Python utiliza la biblioteca Telethon para interactuar con la API de Telegram. Permite al usuario unirse a canales y buscar mensajes específicos dentro de esos canales. Además, traduce los mensajes encontrados al español y guarda los resultados en archivos con marcas de tiempo.
+Este script de Python utiliza la biblioteca Telethon para interactuar con la API de Telegram. Permite al usuario unirse a canales y buscar mensajes específicos dentro de esos canales. Además, traduce los mensajes encontrados al español y guarda los resultados en archivos con marcas de tiempo. En la carpeta out se guardará en el fichero `urls.txt` las urls extraidas de los canales.
 
 <p align="center">
 <img src="/img/logo.jpeg"
